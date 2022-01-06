@@ -1,0 +1,23 @@
+body
+{
+    background-size: cover;
+}
+
+.heading {
+    font-size: 16px;
+    width: 100%;
+    line-height: 4px;
+}
+
+h3 {
+    float: left;
+}
+
+.Instructions {
+    border: 2px solid white;
+    float: right;
+}
+
+#start , #status {
+    border: 2px solid orange;
+}
